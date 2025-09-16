@@ -17,4 +17,4 @@ console.log("Separator: " + path.sep);
 console.log("Delimiter: " + path.delimiter);
 console.log("Absolute path: " + path.resolve('C:', 'Users', 'harik', 'OneDrive', 'Desktop', 'New folder','nodejs','path.js'));
 
-
+  
